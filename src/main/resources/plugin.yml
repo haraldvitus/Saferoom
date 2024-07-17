@@ -1,0 +1,11 @@
+name: Saferoom
+version: '${version}'
+main: dk.haraldvitus.saferoom.Saferoom
+author: Harald Vitus
+depend:
+  - WorldGuard
+  - LuckPerms
+commands:
+  saferoom:
+    permission: saferoom.reload
+    permission-message: "§cDu har ikke adgang til denne kommando."
