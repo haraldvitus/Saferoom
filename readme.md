@@ -3,8 +3,8 @@
 ## Få saferoom-pluginnet ind på din server ved at gøre følgende:
 
 1. Sæt .jar filen ind i din plugins mappe.
-2. Download WorldGuard og sæt det ind i din plugins mappe (hvis du har WorldGuard, ignorer dette)
-3. Genstart din server
+2. Download dependencies'ne (WorldGuard & LuckPerms) og smid dem ind i din plugins-mappe (hvis du har WorldGuard, ignorer dette).
+3. Genstart din server.
 
 Du kan altid tilføje flere saferooms i configgen - samt ændre tiden og teleport-out kordinaterne. Vælg hvilke grupper saferoom skal integrere med i configgen.
 
